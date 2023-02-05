@@ -1,0 +1,27 @@
+package Data_class;
+
+public class G1 {
+
+	
+	public static void main(String[] args)
+	{
+		
+	String Studentname;
+	int Studentrollno;
+    char Studentgrade;
+    float Studentpercentage;
+    
+    
+    Studentname="Rahul";
+    Studentrollno=10;
+    Studentgrade='A';
+    Studentpercentage=94.65f;
+    
+    
+    System.out.println("Studentname:"+Studentname);
+    System.out.println("Studentrollno:"+Studentrollno);
+    System.out.println("Studentgrade:"+Studentgrade);
+    System.out.println("Studentpercentage:"+Studentpercentage);
+    
+			 
+}}
